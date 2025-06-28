@@ -6,6 +6,18 @@ This project applies industry best practices in frontend architecture, state man
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](./src/assets/screenshot01.png)
+
+### ☀️ Light Mode UI
+![Light Mode](./src/assets/screenshot02.png)
+
+### 🌙 Dark Mode UI
+![Dark Mode](./src/assets/screenshot03.png)
+
+
 ## 🚀 Features
 
 - 🔍 **Search and Explore**: Search games by title, filter by genre, platform, and sort by relevance, name, or release date.

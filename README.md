@@ -54,7 +54,7 @@ This project applies industry best practices in frontend architecture, state man
 ```bash
 # 1. Clone the repo
 git clone https://github.com/Tasin1025/gameCartel-react-API
-cd gamecartel
+cd gameCartel-react-API
 
 # 2. Install dependencies
 npm install
